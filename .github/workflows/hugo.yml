@@ -33,12 +33,13 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Install Tailwind CSS locally
+      - name: Install Tailwind CSS v3
         run: |
           if [ ! -f package.json ]; then
             npm init -y
           fi
           npm install tailwindcss@3
+          echo "$PWD/node_modules/.bin" >> $GITHUB_PATH
 
       - name: Setup Go
         uses: actions/setup-go@v5
