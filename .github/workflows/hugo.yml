@@ -31,15 +31,10 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '22'
+          node-version: '20'
 
       - name: Install Tailwind CSS v3
-        run: |
-          if [ ! -f package.json ]; then
-            npm init -y
-          fi
-          npm install tailwindcss@3
-          echo "$PWD/node_modules/.bin" >> $GITHUB_PATH
+        run: npm install -g tailwindcss@3
 
       - name: Setup Go
         uses: actions/setup-go@v5
@@ -49,7 +44,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.128.0'
           extended: true
 
       - name: Setup Pages
