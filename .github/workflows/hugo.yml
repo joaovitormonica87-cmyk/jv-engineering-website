@@ -28,11 +28,13 @@ jobs:
           submodules: true
           fetch-depth: 0
 
-      - name: Install Tailwind CSS Standalone CLI
-        run: |
-          curl -sLO https://github.com/tailwindlabs/tailwindcss/releases/download/v3.4.17/tailwindcss-linux-x64
-          chmod +x tailwindcss-linux-x64
-          sudo mv tailwindcss-linux-x64 /usr/local/bin/tailwindcss
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install Tailwind CSS v3
+        run: npm install -g tailwindcss@3
 
       - name: Setup Go
         uses: actions/setup-go@v5
