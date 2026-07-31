@@ -1,9 +1,8 @@
 {
  "compilerOptions": {
-  "baseUrl": ".",
   "paths": {
    "*": [
-    "../../hugo-up-business/assets/*"
+    "..\\_vendor\\github.com\\writeonlycode\\hugo-up-business\\assets\\*"
    ]
   }
  }

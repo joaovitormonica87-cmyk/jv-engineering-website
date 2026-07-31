@@ -1,38 +1,38 @@
 enable: true
 
 items:
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/1.jpg"
+    pretitle: "Simulação Computacional"
+    title: "Modelagem e Simulação Computacional"
+    text: "Desenvolvimento de modelos computacionais para analisar, validar e compreender sistemas de Engenharia utilizando MATLAB, Simulink, LTspice e PSIM."
 
-    buttons: 
-      - label: "See live"
-        link: "#"
+    buttons:
+      - label: "Ver detalhes"
+        link: "/portfolio/modelagem-simulacao/"
 
-      - label: "Read more"
-        link: "#"
+      - label: "Entrar em contato"
+        link: "https://wa.me/5516981946642"
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/2.jpg"
+    pretitle: "Ciência de Dados"
+    title: "Ciência de Dados e Business Intelligence"
+    text: "Tratamento, análise e visualização de dados utilizando Python, Power BI e Excel, transformando dados técnicos em informações claras para apoio à tomada de decisão."
 
-    buttons: 
-      - label: "See live"
-        link: "#"
+    buttons:
+      - label: "Ver detalhes"
+        link: "/portfolio/dashboards-bi/"
 
-      - label: "Read more"
-        link: "#"
+      - label: "Entrar em contato"
+        link: "https://wa.me/5516981946642"
 
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/33.png"
+    pretitle: "Computação Aplicada"
+    title: "Programação Científica e Soluções Computacionais"
+    text: "Desenvolvimento de algoritmos, scripts e automações utilizando Python, MATLAB e C/C++, aplicados à resolução de problemas acadêmicos e de Engenharia."
 
-    buttons: 
-      - label: "See live"
-        link: "#"
+    buttons:
+      - label: "Ver detalhes"
+        link: "/portfolio/solucoes-computacionais/"
 
-      - label: "Read more"
-        link: "#"
+      - label: "Entrar em contato"
+        link: "https://wa.me/5516981946642"

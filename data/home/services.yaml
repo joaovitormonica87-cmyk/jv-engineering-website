@@ -1,25 +1,27 @@
 enable: true
 
-title: "Our main services"
-text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+title: "Áreas de atuação"
+
+text: "Oferecemos suporte técnico especializado em diferentes áreas da Engenharia e áreas STEM, auxiliando estudantes na resolução de projetos, simulações, programação e análise de dados com qualidade, organização e acompanhamento contínuo."
+
 cards:
-  - image: "images/services-web-development.png"
-    title: "Web development"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+  - image: "images/10.jpg"
+    title: "Modelagem e Simulação Computacional"
+    text: "Modelagem, simulação e análise de sistemas de Engenharia utilizando MATLAB, Simulink, LTspice e PSIM para validação e resolução de problemas técnicos."
     button:
-      label: "Learn more"
-      link: "#"
+      label: "Solicitar Orçamento"
+      link: "https://wa.me/5516981946642?text=Olá!%20Gostaria%20de%20um%20orçamento%20para%20Modelagem%20e%20Simulação%20Computacional."
 
-  - image: "images/services-web-development.png"
-    title: "Web development"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+  - image: "images/9.jpg"
+    title: "Programação Científica"
+    text: "Desenvolvimento de algoritmos, scripts e automações utilizando Python, MATLAB e C/C++, aplicados à resolução de problemas acadêmicos e de Engenharia."
     button:
-      label: "Learn more"
-      link: "#"
+      label: "Solicitar Orçamento"
+      link: "https://wa.me/5516981946642?text=Olá!%20Gostaria%20de%20um%20orçamento%20para%20Programação%20Científica."
 
-  - image: "images/services-web-development.png"
-    title: "Web development"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+  - image: "images/8.jpg"
+    title: "Ciência de Dados e Business Intelligence"
+    text: "Tratamento, análise e visualização de dados utilizando Python, Power BI e Excel, transformando dados técnicos em informações claras para apoio à tomada de decisão."
     button:
-      label: "Learn more"
-      link: "#"
+      label: "Solicitar Orçamento"
+      link: "https://wa.me/5516981946642?text=Olá!%20Gostaria%20de%20um%20orçamento%20para%20Ciência%20de%20Dados%20e%20BI."

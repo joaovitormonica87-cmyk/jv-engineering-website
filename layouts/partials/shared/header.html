@@ -1,0 +1,62 @@
+<nav
+    class="sticky top-0 z-40 bg-[#0a0f1d]/90 backdrop-blur-md border-b border-gray-800/60 transition-all duration-300 py-2">
+    <div class="container mx-auto flex items-center justify-between px-4">
+
+        <!-- LOGO DESKTOP (brightness-0 invert deixa a logo branca) -->
+        <a class="flex items-center flex-shrink-0 xl:-ml-12" href="{{ .Site.BaseURL }}">
+            {{ partial "utilities/image.html" (dict
+            "src" "images/logo.png"
+            "class" "h-20 w-auto xl:h-28 object-contain brightness-0 invert"
+            ) }}
+        </a>
+
+        <!-- BOTÃO MENU CELULAR -->
+        <button class="cursor-pointer text-white hover:text-blue-400 transition-colors xl:hidden" type="button"
+            data-toggle-target="#navbarContent" data-toggle-class="-translate-y-full" aria-label="Toggle Navigation">
+            {{ partial "heroicons/bars-4" }}
+        </button>
+
+        <!-- CONTÊINER DO MENU (xl:bg-transparent REMOVE A CAIXA BRANCA NO DESKTOP) -->
+        <div class="fixed inset-0 z-50 flex -translate-y-full flex-col items-center justify-center gap-8 bg-[#0a0f1d] duration-500 xl:relative xl:translate-y-0 xl:flex xl:flex-row xl:items-center xl:gap-10 xl:z-auto xl:bg-transparent"
+            id="navbarContent">
+
+            <!-- CABEÇALHO DO MOBILE -->
+            <div
+                class="container absolute top-0 mx-auto flex items-center justify-between px-4 py-6 xl:hidden border-b border-gray-800/80">
+                <a class="flex items-center xl:hidden" href="{{ .Site.BaseURL }}">
+                    {{ partial "utilities/image.html" (dict
+                    "src" "images/logo.png"
+                    "class" "h-16 w-auto object-contain brightness-0 invert"
+                    ) }}
+                </a>
+                <button class="cursor-pointer text-white hover:text-blue-400 transition-colors xl:hidden" type="button"
+                    data-toggle-target="#navbarContent" data-toggle-class="-translate-y-full"
+                    aria-label="Toggle Navigation">
+                    {{ partial "heroicons/x-mark" }}
+                </button>
+            </div>
+
+            <!-- LISTA DO MENU -->
+            <ul class="flex flex-col gap-8 xl:flex-row xl:gap-8">
+                {{ range site.Menus.main }}
+                <li class="text-center">
+                    <a class="text-gray-200 hover:text-blue-400 transition-colors font-medium text-lg xl:text-base"
+                        href="{{ .URL }}">
+                        {{ .Name }}
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+
+            <!-- BOTÕES DE AÇÃO -->
+            <ul class="flex flex-col gap-8 xl:flex-row">
+                {{ range .Site.Menus.buttons }}
+                <li class="text-center">
+                    {{ partial "components/button/primary" (dict "label" .Name "href" .URL ) }}
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+
+    </div>
+</nav>

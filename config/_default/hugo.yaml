@@ -1,8 +1,13 @@
 baseURL: "/"
-title: "Up Business"
+title: "JV Engineering"
 summaryLength: 20
+languageCode: "pt-br"
 
 # services:
 #   googleAnalytics:
 #     id: G-MEASUREMENT_ID
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

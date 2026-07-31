@@ -1,24 +1,24 @@
 enable: true
 
-title: "Testimonials"
+title: "Resultados que falam por si"
 
-featured:
-  image: "images/testimonials-awards.png"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-  client: "Anonymous Customer"
+featured: 
+  image: "images/4.png"
+  text: "Resposta bem organizada, com passo a passo claro e fácil de entender. Domina o assunto."
+  client: "Laura — Processamento Digital de Sinais"
 
 items:
-  - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-    client: "Anonymous Customer"
+  - text: "João foi muito prestativo e muito rápido com as respostas mesmo a atividade sendo bem extensa. Excelente resolução, podem confiar!"
+    client: "Gabriel — Sistemas de Controle"
 
-  - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-    client: "Anonymous Customer"
+  - text: "Muito dedicado e compromissado. Fez tudo certo e super aconselho."
+    client: "Braian — Eletromagnetismo"
 
-  - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-    client: "Anonymous Customer"
+  - text: "Boa noite, saiu a nota da primeira atividade e gabaritamos. Valeu aí, meu patrão!"
+    client: "Lucas — EDO"
 
-  - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-    client: "Anonymous Customer"
+  - text: "Foi tudo certo, a gente tirou 10 no trabalho de Máquinas Elétricas."
+    client: "Mateus — Máquinas Elétricas"
 
-  - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-    client: "Anonymous Customer"
+  - text: "Tirei total no trabalho de Cálculo Numérico."
+    client: "Amanda — Cálculo Numérico"

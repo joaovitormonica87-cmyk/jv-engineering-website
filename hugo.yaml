@@ -1,5 +1,5 @@
 theme: "github.com/writeonlycode/hugo-up-business"
-languageCode: "en-us"
+languageCode: "pt-br"
 
 build:
   buildStats:
@@ -30,3 +30,17 @@ module:
 taxonomies:
   series: "series"
   tags: "tags"
+
+# Suporte ao LaTeX (Goldmark Passthrough)
+markup:
+  goldmark:
+    renderer:
+      unsafe: true  # Permite carregar os scripts do KaTeX
+    extensions:
+      passthrough:
+        enable: true
+        delimiters:
+          block:
+            - ["$$", "$$"]
+          inline:
+            - ["$", "$"]

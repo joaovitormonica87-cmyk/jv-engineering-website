@@ -1,46 +1,50 @@
 main:
-  - name: "Home"
+  - name: "Início"
     url: "/#hero"
     weight: 1
 
-  - name: "How we work"
-    url: "/#"
+  - name: "Sobre"
+    url: "/#about"
     weight: 2
 
-  - name: "Our team"
-    url: "/#"
+  - name: "Serviços"
+    url: "/#services"
     weight: 3
 
-  - name: "Pricing"
-    url: "/#"
+  - name: "Projetos"
+    url: "/#portfolio"
     weight: 4
+
+  - name: "Depoimentos"
+    url: "/#testimonials"
+    weight: 5
 
   - name: "Blog"
     url: "/blog"
-    weight: 5
+    weight: 6
 
 buttons:
-  - name: "Book a call"
-    url: "/#"
-    weight: 5
+  - name: "Falar conosco"
+    url: "https://wa.me/5516981946642"
+    weight: 1
 
 footer:
-  - name: "Home"
+  - name: "Início"
     url: "/#hero"
     weight: 1
 
-  - name: "How we work"
-    url: "/#"
+  - name: "Serviços"
+    url: "/#services"
     weight: 2
 
-  - name: "Our team"
-    url: "/#"
+  - name: "Projetos"
+    url: "/#portfolio"
     weight: 3
 
-  - name: "Pricing"
-    url: "/#"
+  - name: "Depoimentos"
+    url: "/#testimonials"
     weight: 4
 
-  - name: "Blog"
-    url: "/blog"
+  - name: "Contato"
+    url: "https://wa.me/5516981946642"
     weight: 5

@@ -1,28 +1,26 @@
-title: "Up Business"
-description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
-images: 
-  - "images/hero-image.png"
+title: "JV Engineering"
 
-logo: "arrow-up.png"
+description: "Suporte técnico especializado para estudantes de Engenharia e áreas STEM."
+
+images:
+  - "images/logo.png"
+
+logo: "logo.png"
 
 favicons:
-  themeColor: "#FFFFFF"
-  backgroundColor: "#FFFFFF"
-  faviconColor: "#000000"
+  themeColor: "#0F172A"
+  backgroundColor: "#0F172A"
+  faviconColor: "#FFFFFF"
 
 social:
-  dribbble: "#"
-  instagram: "#"
-  facebook: "#"
-  twitter: "#"
+  linkedin: "https://www.linkedin.com/in/joaovitormirandasousa"
+  github: "#"
 
 location:
-  - "3891 Ranchview Dr. Richardson, California 62639"
-  - "4517 Washington Ave. Manchester, Kentucky 39495"
+  - "Atendimento remoto • Brasil"
 
 contact:
-  - "trungkienspktnd@gamail.com"
-  - "207.555.0119"
+  - '<a href="mailto:joaovitormonica87@gmail.com" class="hover:text-primary transition-colors">joaovitormonica87@gmail.com</a>'
+  - '<a href="https://wa.me/5516981946642" target="_blank" class="hover:text-primary transition-colors">+55 (16) 98194-6642</a>'
 
-copyright: "© 2022 Up Business All Rights Reserved"
-
+copyright: "© 2026 JV Engineering. Todos os direitos reservados."
