@@ -1,4 +1,7 @@
-baseURL: "/"
+baseURL: "https://joaovitormonica87-cmyk.github.io/jv-engineering-website/"
+canonifyURLs: true
+relativeURLs: false
+
 title: "JV Engineering"
 summaryLength: 20
 languageCode: "pt-br"
