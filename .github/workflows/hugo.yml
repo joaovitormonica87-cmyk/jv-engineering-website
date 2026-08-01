@@ -54,7 +54,6 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --canonifyURLs \
             --baseURL="https://joaovitormonica87-cmyk.github.io/jv-engineering-website/"
 
       - name: Upload artifact
