@@ -1,3 +1,7 @@
+baseURL: "https://joaovitormonica87-cmyk.github.io/jv-engineering-website/"
+canonifyURLs: true
+relativeURLs: false
+
 theme: "github.com/writeonlycode/hugo-up-business"
 languageCode: "pt-br"
 
