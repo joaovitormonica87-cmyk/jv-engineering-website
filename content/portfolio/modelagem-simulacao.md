@@ -3,6 +3,7 @@ title: "Filtragem Digital e Processamento de Sinais com MATLAB"
 date: 2026-07-28
 draft: false
 slug: "modelagem-simulacao"
+url: "/portfolio/modelagem-simulacao/"
 description: "Desenvolvimento, simulação e validação de uma solução computacional em MATLAB para remoção de ruídos de alta frequência via Filtro IIR Butterworth de 4ª ordem e análise espectral por FFT."
 
 categories:
