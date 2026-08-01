@@ -55,7 +55,7 @@ jobs:
             --gc \
             --minify \
             --canonifyURLs \
-            --baseURL "https://joaovitormonica87-cmyk.github.io/jv-engineering-website/"
+            --baseURL="https://joaovitormonica87-cmyk.github.io/jv-engineering-website/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
