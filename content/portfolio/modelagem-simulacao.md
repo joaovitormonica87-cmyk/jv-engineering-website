@@ -5,18 +5,16 @@ draft: false
 slug: "modelagem-simulacao"
 url: "/portfolio/modelagem-simulacao/"
 description: "Desenvolvimento, simulação e validação de uma solução computacional em MATLAB para remoção de ruídos de alta frequência via Filtro IIR Butterworth de 4ª ordem e análise espectral por FFT."
-
 categories:
-  - Modelagem e Simulação
-  - Engenharia Elétrica
-
+  - "Modelagem e Simulação"
+  - "Engenharia Elétrica"
 tags:
-  - MATLAB
-  - PDS
-  - Filtros Digitais
-  - Butterworth
-  - FFT
-  - Sinais e Sistemas
+  - "MATLAB"
+  - "PDS"
+  - "Filtros Digitais"
+  - "Butterworth"
+  - "FFT"
+  - "Sinais e Sistemas"
 ---
 
 <!-- METRICAS DE IMPACTO (KPI GRID) -->
