@@ -56,7 +56,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "https://joaovitormonica87-cmyk.github.io/jv-engineering-website/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
