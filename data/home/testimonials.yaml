@@ -1,24 +1,24 @@
 enable: true
 
-title: "Resultados que falam por si"
+title: "Excelência e Rigor Técnico Comprovados"
 
 featured: 
   image: "images/4.png"
-  text: "Resposta bem organizada, com passo a passo claro e fácil de entender. Domina o assunto."
-  client: "Laura — Processamento Digital de Sinais"
+  text: "A modelagem computacional foi entregue com excelência. Código extremamente organizado, documentação clara e total domínio técnico do problema proposto."
+  client: "L.M. — Engenharia de Telecomunicações"
 
 items:
-  - text: "João foi muito prestativo e muito rápido com as respostas mesmo a atividade sendo bem extensa. Excelente resolução, podem confiar!"
-    client: "Gabriel — Sistemas de Controle"
+  - text: "Profissionalismo ímpar e agilidade na entrega, mesmo com requisitos complexos de simulação. A validação dos modelos teóricos foi impecável."
+    client: "G.A. — Engenharia de Controle e Automação"
 
-  - text: "Muito dedicado e compromissado. Fez tudo certo e super aconselho."
-    client: "Braian — Eletromagnetismo"
+  - text: "Alto nível de comprometimento e precisão técnica. A análise foi fundamentada com rigor acadêmico absoluto. Recomendo fortemente a consultoria."
+    client: "B.R. — Engenharia Elétrica"
 
-  - text: "Boa noite, saiu a nota da primeira atividade e gabaritamos. Valeu aí, meu patrão!"
-    client: "Lucas — EDO"
+  - text: "Resultados analíticos exatos e resolução rigorosa. A qualidade do detalhamento matemático superou todas as expectativas da avaliação."
+    client: "L.C. — Engenharia Mecânica"
 
-  - text: "Foi tudo certo, a gente tirou 10 no trabalho de Máquinas Elétricas."
-    client: "Mateus — Máquinas Elétricas"
+  - text: "Projeto entregue com nível profissional. O detalhamento técnico e a estruturação garantiram a nota máxima no dimensionamento do sistema."
+    client: "M.T. — Engenharia de Energia"
 
-  - text: "Tirei total no trabalho de Cálculo Numérico."
-    client: "Amanda — Cálculo Numérico"
+  - text: "Implementação algorítmica perfeita e bem otimizada. Os métodos numéricos foram executados e validados sem nenhuma margem de erro."
+    client: "A.S. — Engenharia de Computação"
