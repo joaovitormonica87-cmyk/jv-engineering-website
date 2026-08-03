@@ -1,6 +1,6 @@
 title: "JV Engineering"
 
-description: "Suporte técnico especializado para estudantes de Engenharia e áreas STEM."
+description: "Consultoria de alto nível em Engenharia, Simulação Computacional e Modelagem Matemática. Entregamos precisão, rigor analítico e soluções definitivas para desafios complexos em áreas STEM."
 
 images:
   - "images/logo.png"
@@ -14,7 +14,7 @@ favicons:
 
 social:
   linkedin: "https://www.linkedin.com/in/joaovitormirandasousa"
-  github: "#"
+  github: "https://github.com/joaovitormonica87-cmyk"
 
 location:
   - "Atendimento remoto • Brasil"
