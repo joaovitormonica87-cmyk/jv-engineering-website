@@ -1,11 +1,11 @@
 enable: true
 
-title: "Pronto para superar o próximo desafio da graduação?"
+title: "Eleve o rigor técnico dos seus projetos"
 
-text: "Conte com suporte técnico especializado em Engenharia e áreas STEM. Estamos prontos para ajudar você em disciplinas, projetos, simulações e desenvolvimento técnico durante toda a sua graduação."
+text: "Consultoria especializada em **Engenharia, Simulação Computacional e Modelagem Matemática**. Do embasamento acadêmico à resolução de sistemas complexos, garantimos precisão absoluta na sua entrega."
 
 image: "images/logo.png"
 
 button:
-  label: "Falar conosco"
+  label: "Falar com Especialista"
   url: "https://wa.me/5516981946642"
