@@ -2,37 +2,31 @@ enable: true
 
 items:
   - image: "images/1.jpg"
-    pretitle: "Simulação Computacional"
+    pretitle: "Processamento e Simulação"
     title: "Modelagem e Simulação Computacional"
-    text: "Desenvolvimento de modelos computacionais para analisar, validar e compreender sistemas de Engenharia utilizando MATLAB, Simulink, LTspice e PSIM."
-
+    text: "Desenvolvimento de modelos computacionais e Processamento Digital de Sinais (PDS) para analisar, validar e otimizar sistemas de Engenharia utilizando MATLAB, Simulink e LTspice."
     buttons:
       - label: "Ver detalhes"
         link: "/portfolio/modelagem-simulacao/"
-
       - label: "Entrar em contato"
         link: "https://wa.me/5516981946642"
 
   - image: "images/2.jpg"
     pretitle: "Ciência de Dados"
-    title: "Ciência de Dados e Business Intelligence"
-    text: "Tratamento, análise e visualização de dados utilizando Python, Power BI e Excel, transformando dados técnicos em informações claras para apoio à tomada de decisão."
-
+    title: "Análise de Dados e Business Intelligence"
+    text: "Tratamento, modelagem e visualização de dados utilizando Python (Pandas/NumPy) e Power BI, transformando bases técnicas complexas em dashboards interativos para apoio à tomada de decisão."
     buttons:
       - label: "Ver detalhes"
         link: "/portfolio/dashboards-bi/"
-
       - label: "Entrar em contato"
         link: "https://wa.me/5516981946642"
 
   - image: "images/33.png"
-    pretitle: "Computação Aplicada"
-    title: "Programação Científica e Soluções Computacionais"
-    text: "Desenvolvimento de algoritmos, scripts e automações utilizando Python, MATLAB e C/C++, aplicados à resolução de problemas acadêmicos e de Engenharia."
-
+    pretitle: "Algoritmos e Métodos Numéricos"
+    title: "Programação Científica e Lógica Nebulosa"
+    text: "Desenvolvimento de algoritmos matemáticos e sistemas especialistas. Implementação de Lógica Nebulosa (Fuzzy) utilizando GNU Octave e MATLAB para modelagem de incertezas e análise de superfícies de resposta em Engenharia."
     buttons:
       - label: "Ver detalhes"
         link: "/portfolio/solucoes-computacionais/"
-
       - label: "Entrar em contato"
         link: "https://wa.me/5516981946642"
