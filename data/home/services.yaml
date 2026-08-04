@@ -1,27 +1,25 @@
 enable: true
 
-title: "Áreas de atuação"
-
-text: "Oferecemos suporte técnico especializado em diferentes áreas da Engenharia e áreas STEM, auxiliando estudantes na resolução de projetos, simulações, programação e análise de dados com qualidade, organização e acompanhamento contínuo."
+kicker: "ÁREAS DE ATUAÇÃO"
+title: "Conhecimento técnico aplicado às principais áreas da Engenharia."
+text: "Oferecemos suporte especializado e consultoria em áreas STEM. Auxiliamos estudantes e profissionais no desenvolvimento de projetos, simulações, programação e análise de dados, sempre com rigor analítico e foco em resultados de alta qualidade."
 
 cards:
-  - image: "images/10.jpg"
-    title: "Modelagem e Simulação Computacional"
-    text: "Modelagem, simulação e análise de sistemas de Engenharia utilizando MATLAB, Simulink, LTspice e PSIM para validação e resolução de problemas técnicos."
-    button:
-      label: "Solicitar Orçamento"
-      link: "https://wa.me/5516981946642?text=Olá!%20Gostaria%20de%20um%20orçamento%20para%20Modelagem%20e%20Simulação%20Computacional."
-
-  - image: "images/9.jpg"
+  - icon: "⚡"
+    title: "Engenharia Elétrica"
+    text: "Circuitos Elétricos, Eletrônica, Eletrônica de Potência, Instrumentação, Conversão Eletromecânica, Sistemas de Energia e áreas correlatas."
+  - icon: "💻"
     title: "Programação Científica"
-    text: "Desenvolvimento de algoritmos, scripts e automações utilizando Python, MATLAB e C/C++, aplicados à resolução de problemas acadêmicos e de Engenharia."
-    button:
-      label: "Solicitar Orçamento"
-      link: "https://wa.me/5516981946642?text=Olá!%20Gostaria%20de%20um%20orçamento%20para%20Programação%20Científica."
-
-  - image: "images/8.jpg"
-    title: "Ciência de Dados e Business Intelligence"
-    text: "Tratamento, análise e visualização de dados utilizando Python, Power BI e Excel, transformando dados técnicos em informações claras para apoio à tomada de decisão."
-    button:
-      label: "Solicitar Orçamento"
-      link: "https://wa.me/5516981946642?text=Olá!%20Gostaria%20de%20um%20orçamento%20para%20Ciência%20de%20Dados%20e%20BI."
+    text: "Desenvolvimento de algoritmos, scripts e automações utilizando Python, MATLAB, C/C++ e Microcontroladores."
+  - icon: "📊"
+    title: "Ciência de Dados e BI"
+    text: "Tratamento, análise e visualização de dados. Power BI, Pandas, ETL, Dashboards, Power Query e integração de APIs."
+  - icon: "⚙️"
+    title: "Simulação Computacional"
+    text: "Modelagem, validação e análise avançada utilizando MATLAB, Simulink, LTspice e PSIM."
+  - icon: "📐"
+    title: "Matemática e Física"
+    text: "Suporte analítico em Cálculo, Álgebra Linear, Geometria Analítica, EDO, Física Clássica e Métodos Numéricos."
+  - icon: "📄"
+    title: "Projetos Acadêmicos"
+    text: "Desenvolvimento completo de projetos técnicos, elaboração de relatórios, organização de códigos e documentação."
