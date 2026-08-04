@@ -17,7 +17,7 @@ items:
     text: "Tratamento, modelagem e visualização de dados utilizando Python (Pandas/NumPy) e Power BI, transformando bases técnicas complexas em dashboards interativos para apoio à tomada de decisão."
     buttons:
       - label: "Ver detalhes"
-        link: "/portfolio/dashboards-bi/"
+        link: "/portfolio/qualidade-energia/"
       - label: "Entrar em contato"
         link: "https://wa.me/5516981946642"
 
